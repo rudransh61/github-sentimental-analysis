@@ -1,0 +1,19 @@
+Container {
+    padding: 1;  /* Adjust padding as per your layout */
+}
+
+Horizontal {
+    margin-bottom: 1;  /* Adjust margin as per your layout */
+}
+
+Label {
+    width: 20%;
+}
+
+Input {
+    width: 60%;
+}
+
+Button {
+    width: 20%;
+}

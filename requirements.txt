@@ -1,0 +1,5 @@
+Flask==2.1.2
+requests==2.26.0
+mindsdb_sdk==2.0.2
+python-dotenv==0.19.2
+click
