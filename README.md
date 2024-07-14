@@ -70,9 +70,7 @@ To analyze issues and PRs in the repository `rudransh61/Physix-go`:
 python main.py rudransh61/Physix-go
 ```
 
-<video width="320" height="240" controls>
-  <source src="https://raw.githubusercontent.com/rudransh61/github-sentimental-analysis/master/example.mp4" type="video/mp4">
-</video>
+<a href="https://raw.githubusercontent.com/rudransh61/github-sentimental-analysis/master/example.mp4" title="Link Title">Video link example.mp4</a>
 
 This command will fetch all issues and PRs, perform sentiment analysis, generate AI reviews, and plot sentiment analysis results.
 
