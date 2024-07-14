@@ -8,7 +8,7 @@
 
 ```
 
-This project analyzes GitHub issues and pull requests (PRs) sentiment using natural language processing techniques and generates AI-powered reviews using MindsDB's Gwmini model.
+This project analyzes GitHub issues and pull requests (PRs) sentiment using natural language processing techniques and generates AI-powered reviews using MindsDB's Gemini model.
 
 ## Installation
 
@@ -69,6 +69,10 @@ To analyze issues and PRs in the repository `rudransh61/Physix-go`:
 ```bash
 python main.py rudransh61/Physix-go
 ```
+
+<video width="320" height="240" controls>
+  <source src="https://raw.githubusercontent.com/rudransh61/github-sentimental-analysis/master/example.mp4" type="video/mp4">
+</video>
 
 This command will fetch all issues and PRs, perform sentiment analysis, generate AI reviews, and plot sentiment analysis results.
 
